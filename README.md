@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abhay</h1>
 <h3 align="center">Student , Passionate Web developer , Web 3 Enthusiast</h3>
-[![](https://visitcount.itsvg.in/api?id=holygrimm&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=holygrimm&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=holygrimm&theme=radical&no-frame=false&no-bg=false&margin-w=4)
